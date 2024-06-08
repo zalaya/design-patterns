@@ -1,0 +1,6 @@
+### IDE Settings ###
+/.idea
+/.vscode
+
+### Build ###
+/target
