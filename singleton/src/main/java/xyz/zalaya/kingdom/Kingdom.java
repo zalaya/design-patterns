@@ -11,7 +11,7 @@ public class Kingdom {
 
     public static Kingdom getInstance(KingdomAttributes attributes) {
         if (instance == null) {
-            instance = new Kingdom(attributes);
+            instance = new  Kingdom(attributes);
         }
 
         return instance;
