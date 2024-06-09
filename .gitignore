@@ -3,4 +3,4 @@
 /.vscode
 
 ### Build ###
-/target
+**/target
