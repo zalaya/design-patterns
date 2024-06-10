@@ -1,12 +1,12 @@
 package xyz.zalaya.character;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
+import lombok.RequiredArgsConstructor;
 import lombok.Setter;
 
 @Getter
 @Setter
-@AllArgsConstructor
+@RequiredArgsConstructor
 public abstract class Character {
     protected final CharacterAttributes attributes;
 

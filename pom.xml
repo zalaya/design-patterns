@@ -13,7 +13,8 @@
 
     <modules>
         <module>factory</module>
-        <module>singleton</module>
+        <module>enum-singleton</module>
+        <module>classic-singleton</module>
     </modules>
 
     <properties>

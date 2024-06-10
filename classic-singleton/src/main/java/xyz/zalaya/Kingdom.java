@@ -1,4 +1,4 @@
-package xyz.zalaya.kingdom;
+package xyz.zalaya;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -7,7 +7,7 @@ import lombok.Setter;
 @Getter
 @Setter
 @AllArgsConstructor
-public class KingdomAttributes {
+public class Kingdom {
     private String name;
     private Integer population;
     private Double area;
