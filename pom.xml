@@ -16,6 +16,7 @@
         <module>enum-singleton</module>
         <module>classic-singleton</module>
         <module>observer</module>
+        <module>abstract-factory</module>
     </modules>
 
     <properties>

@@ -1,7 +1,6 @@
 package xyz.zalaya.quest;
 
 import lombok.Getter;
-import lombok.Setter;
 import xyz.zalaya.knight.Adventurer;
 
 import java.util.ArrayList;
