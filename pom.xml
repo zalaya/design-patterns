@@ -15,6 +15,7 @@
         <module>factory</module>
         <module>enum-singleton</module>
         <module>classic-singleton</module>
+        <module>observer</module>
     </modules>
 
     <properties>
