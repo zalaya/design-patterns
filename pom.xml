@@ -17,6 +17,7 @@
         <module>classic-singleton</module>
         <module>observer</module>
         <module>abstract-factory</module>
+        <module>command</module>
     </modules>
 
     <properties>
