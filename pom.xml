@@ -12,12 +12,9 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>factory</module>
-        <module>enum-singleton</module>
-        <module>classic-singleton</module>
-        <module>observer</module>
-        <module>abstract-factory</module>
-        <module>command</module>
+        <module>creational</module>
+        <module>structural</module>
+        <module>behavioral</module>
     </modules>
 
     <properties>
