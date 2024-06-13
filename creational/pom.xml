@@ -13,4 +13,5 @@
     </parent>
 
     <artifactId>creational</artifactId>
+    <packaging>pom</packaging>
 </project>
