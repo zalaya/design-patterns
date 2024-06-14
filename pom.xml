@@ -13,8 +13,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>categories</module>
         <module>properties</module>
+        <module>categories</module>
     </modules>
 
     <dependencies>

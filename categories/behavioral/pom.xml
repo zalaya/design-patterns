@@ -13,5 +13,4 @@
     </parent>
 
     <artifactId>behavioral</artifactId>
-    <packaging>pom</packaging>
 </project>

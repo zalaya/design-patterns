@@ -13,5 +13,4 @@
     </parent>
 
     <artifactId>structural</artifactId>
-    <packaging>pom</packaging>
 </project>
