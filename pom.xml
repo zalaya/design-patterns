@@ -13,16 +13,9 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>creational</module>
-        <module>structural</module>
-        <module>behavioral</module>
+        <module>categories</module>
+        <module>properties</module>
     </modules>
-
-    <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
 
     <dependencies>
         <dependency>
