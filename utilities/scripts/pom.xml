@@ -8,10 +8,9 @@
 
     <parent>
         <groupId>xyz.zalaya</groupId>
-        <artifactId>categories</artifactId>
+        <artifactId>utilities</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>behavioral</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>scripts</artifactId>
 </project>

@@ -8,10 +8,15 @@
 
     <parent>
         <groupId>xyz.zalaya</groupId>
-        <artifactId>categories</artifactId>
+        <artifactId>design-patterns</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>behavioral</artifactId>
+    <artifactId>utilities</artifactId>
     <packaging>pom</packaging>
+
+    <modules>
+        <module>properties</module>
+        <module>scripts</module>
+    </modules>
 </project>
