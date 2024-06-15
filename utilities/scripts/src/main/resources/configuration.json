@@ -1,0 +1,20 @@
+{
+  "projectRoot": {
+    "name": "design-patterns"
+  },
+  "moduleConfig": {
+    "paths": [
+      "src/main/java/xyz/zalaya",
+      "src/test/java/xyz/zalaya",
+      "src/main/resources",
+      "src/test/resources"
+    ],
+    "fileTemplates": {
+      "pomFile": {
+        "templatePath": "template.xml",
+        "outputPath": "pom.xml"
+      },
+      "emptyFile": ".gitkeep"
+    }
+  }
+}

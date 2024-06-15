@@ -14,4 +14,7 @@
 
     <artifactId>behavioral</artifactId>
     <packaging>pom</packaging>
+
+    <modules>
+    </modules>
 </project>
