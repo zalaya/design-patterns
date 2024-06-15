@@ -18,8 +18,9 @@
     </properties>
 
     <modules>
-        <module>utilities</module>
-        <module>categories</module>
+        <module>behavioral</module>
+        <module>creational</module>
+        <module>structural</module>
     </modules>
 
     <dependencies>

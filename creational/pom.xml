@@ -12,12 +12,6 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>categories</artifactId>
+    <artifactId>creational</artifactId>
     <packaging>pom</packaging>
-
-    <modules>
-        <module>creational</module>
-        <module>structural</module>
-        <module>behavioral</module>
-    </modules>
 </project>
