@@ -8,20 +8,9 @@
 
     <parent>
         <groupId>xyz.zalaya</groupId>
-        <artifactId>design-patterns</artifactId>
+        <artifactId>structural</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>structural</artifactId>
-    <packaging>pom</packaging>
-
-    <modules>
-        <module>adapter</module>
-        <module>bridge</module>
-        <module>composite</module>
-        <module>decorator</module>
-        <module>facade</module>
-        <module>flyweight</module>
-        <module>proxy</module>
-    </modules>
+    <artifactId>decorator</artifactId>
 </project>
