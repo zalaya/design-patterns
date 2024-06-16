@@ -14,4 +14,7 @@
 
     <artifactId>structural</artifactId>
     <packaging>pom</packaging>
+
+    <modules>
+    </modules>
 </project>
