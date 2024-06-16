@@ -16,5 +16,15 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>chain-of-responsibility</module>
+        <module>command</module>
+        <module>interpreter</module>
+        <module>mediator</module>
+        <module>memento</module>
+        <module>observer</module>
+        <module>state</module>
+        <module>strategy</module>
+        <module>template-method</module>
+        <module>visitor</module>
     </modules>
 </project>
