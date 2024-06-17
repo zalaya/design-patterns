@@ -1,33 +1,21 @@
-# Design Patterns
+# Design Patterns in Java
+
+This repository contains examples of design patterns implemented in Java. The patterns are categorized into three types: Creational, Structural, and Behavioral.
+
+## Table of Contents
+
+1. [Creational Patterns](./Creational/README.md)
+2. [Structural Patterns](./Structural/README.md)
+3. [Behavioral Patterns](./Behavioral/README.md)
 
 ## Creational Patterns
 
-- Singleton
-- Factory Method
-- Abstract Factory
-- Factory
-- Builder
-- Prototype
+Creational design patterns abstract the instantiation process. They help make a system independent of how its objects are created, composed, and represented. [Read more](./Creational/README.md)
 
 ## Structural Patterns
 
-- Adapter
-- Bridge
-- Composite
-- Decorator
-- Facade
-- Flyweight
-- Proxy
-    
+Structural patterns are about organizing different classes and objects to form larger structures and provide new functionality. [Read more](./Structural/README.md)
+
 ## Behavioral Patterns
 
-- Chain of Responsibility
-- Command
-- Interpreter
-- Mediator
-- Memento
-- Observer
-- State
-- Strategy
-- Template Method
-- Visitor
+Behavioral patterns are about identifying common communication patterns between objects and realize these patterns. [Read more](./Behavioral/README.md)
