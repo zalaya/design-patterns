@@ -5,6 +5,7 @@
 - Singleton
 - Factory Method
 - Abstract Factory
+- Factory
 - Builder
 - Prototype
 
