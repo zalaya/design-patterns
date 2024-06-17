@@ -14,5 +14,3 @@ Behavioral patterns are about identifying common communication patterns between 
 8. Strategy
 9. Template Method
 10. Visitor
-
-(Here you can add a brief description and example of each pattern)

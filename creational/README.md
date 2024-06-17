@@ -10,5 +10,3 @@ Creational design patterns abstract the instantiation process. They help make a 
 4. Factory
 5. Builder
 6. Prototype
-
-(Here you can add a brief description and example of each pattern)
